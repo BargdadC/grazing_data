@@ -1,0 +1,2 @@
+use animal_Welfare
+db.createCollection("survey")
